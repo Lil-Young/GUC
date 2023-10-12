@@ -1,0 +1,2 @@
+# GUC
+Gangwon University Community
